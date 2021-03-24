@@ -16,5 +16,5 @@ Kafka; Redis; Cassandra; ElasticSearch; Ansible\
 NAT hole punching, device discovery / nmap, tunnels, WebSockets, DNS, VLANs, proxies, etc]\
 Experience building from source, creating a package
 
-#&emsp; adds tabs 
+#'&emsp;' adds tabs\ 
 #'\' backslash starts newline
