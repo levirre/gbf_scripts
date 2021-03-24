@@ -1,13 +1,13 @@
 Cybersecurity\
-    = Bash Scripting\
-        - General Linux configuration\
-        - functions of kernel, how it works\
-    = C Programming\
-    = Python\
-    = Assembly\
-        - What are the registers, commands\
-        - Disassembly\
-    = Pentesting\
+&emsp; = Bash Scripting\
+&emsp;&emsp;- General Linux configuration\
+&emsp;&emsp;- functions of kernel, how it works\
+&emsp;= C Programming\
+&emsp;= Python\
+&emsp;= Assembly\
+&emsp;&emsp;- What are the registers, commands\
+&emsp;&emsp;- Disassembly\
+&emsp; = Pentesting\
     
 
 Resources:\
