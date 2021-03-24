@@ -7,7 +7,7 @@ Cybersecurity\
 &emsp;= Assembly\
 &emsp;&emsp;- What are the registers, commands\
 &emsp;&emsp;- Disassembly\
-&emsp; = Pentesting\
+&emsp;= Pentesting\
     
 
 Resources:\
